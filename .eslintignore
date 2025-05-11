@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build directories
+dist/
+build/
+coverage/
+
+# Configuration files
+vite.config.js
+*.config.js
+!.eslintrc.js
+
+# Other
+.DS_Store
+*.log
